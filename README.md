@@ -26,7 +26,7 @@ TetrisClone/
 ```
 
 
-## 📜 Instalación y Uso 🔧
+## 📜 Instalación y Uso 
 
 1. **Clona este repositorio**  
    ```bash
