@@ -9,11 +9,12 @@ Este es un clon del clásico juego **Tetris**, desarrollado en **JavaScript, HTM
 ✅ **Detección de colisiones y eliminación de filas completas**  
 ✅ **Estilos personalizables con CSS**  
 
-## 🛠️ Tecnologías Utilizadas  
+## 🚀 Tecnologías Utilizadas  
 
 - **HTML5** para la estructura del juego  
 - **CSS3** para los estilos y personalización  
 - **JavaScript** para la lógica del juego  
+
 
 ## 📂 Estructura del Proyecto  
 
@@ -26,11 +27,14 @@ TetrisClone/
 ```
 
 
-## 📜 Instalación y Uso 
+## 🔑 Instalación y Uso 
 
 1. **Clona este repositorio**  
    ```bash
    git clone https://github.com/estebanzeaalvarez/Tetris.git
+
+## 📜 Licencia
+Este proyecto está bajo la licencia **MIT**.
 
 ## 🎮 Controles del Juego  
 
@@ -41,7 +45,7 @@ TetrisClone/
 ⬇️  Acelerar caída
 ```
 
-## 🚀 Mejoras Futuras  
+## 📌 Mejoras Futuras  
 
 ```bash
 🔥 Agregar sonidos y música de fondo  
@@ -54,3 +58,6 @@ TetrisClone/
 Si deseas contribuir o tienes alguna sugerencia, puedes contactarme en:  
 ✉️ **[Discord](https://discord.com/users/estebanzea777)**  
 👨‍💻 **[Mi perfil de GitHub](https://github.com/estebanzeaalvarez)**  
+
+---
+¡Si te gustó este proyecto, dale una ⭐ y contribuye con mejoras! 😃
