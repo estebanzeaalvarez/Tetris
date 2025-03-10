@@ -60,4 +60,4 @@ Si deseas contribuir o tienes alguna sugerencia, puedes contactarme en:
 👨‍💻 **[Mi perfil de GitHub](https://github.com/estebanzeaalvarez)**  
 
 ---
-¡Si te gustó este proyecto, dale una ⭐ y contribuye con mejoras! 😃
+✨¡Si te gustó este proyecto, dale una ⭐ y contribuye con mejoras! 😃
